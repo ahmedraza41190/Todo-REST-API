@@ -54,7 +54,7 @@ uvicorn app.main:app --reload
 6. Open the application in your browser:
 
 ```console
-streamlit run app/streamlit_app.py
+streamlit run streamlit_client.py     
 ```
 
 7. Running Tests
